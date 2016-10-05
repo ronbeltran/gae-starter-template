@@ -1,0 +1,21 @@
+{
+  "name": "assets",
+  "homepage": "https://github.com/ronbeltran/gae-starter-template",
+  "authors": [
+    "Ronnie Beltran <rbbeltran.09@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.12.4",
+    "bootstrap": "3.3.7"
+  }
+}
