@@ -1,2 +1,3 @@
 *.pyc
 lib
+static/bower_components
